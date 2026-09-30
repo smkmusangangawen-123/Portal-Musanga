@@ -1,0 +1,6 @@
+{
+  "name": "EduPortal - Portal Sekolah & Ruang Belajar Digital (LMS)",
+  "description": "Aplikasi Portal Sekolah Digital terpadu dengan autentikasi ganda (Login Siswa & Backoffice Admin/Tata Usaha), LMS ruang belajar, gamifikasi, ujian CBT, presensi QR, dan manajemen keuangan E-Administrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
